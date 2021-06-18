@@ -1,0 +1,18 @@
+.shop-page {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 4rem;
+    
+}
+.search {
+    -webkit-appearance: none;
+    border: 1px solid #fff;
+    outline: none;
+    padding: 4px;
+    width: 220px;
+    margin-right: 12px;
+    line-height: 30px;
+    border-radius: 5px;
+    background: transparent;
+    color: #fff;
+  }
