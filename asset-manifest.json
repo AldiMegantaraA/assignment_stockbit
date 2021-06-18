@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/speskill-test/static/css/main.acf8dbe9.chunk.css",
+    "main.js": "/speskill-test/static/js/main.38e19148.chunk.js",
+    "main.js.map": "/speskill-test/static/js/main.38e19148.chunk.js.map",
+    "runtime-main.js": "/speskill-test/static/js/runtime-main.72e78965.js",
+    "runtime-main.js.map": "/speskill-test/static/js/runtime-main.72e78965.js.map",
+    "static/js/2.0c468b6c.chunk.js": "/speskill-test/static/js/2.0c468b6c.chunk.js",
+    "static/js/2.0c468b6c.chunk.js.map": "/speskill-test/static/js/2.0c468b6c.chunk.js.map",
+    "static/js/3.9c738e2d.chunk.js": "/speskill-test/static/js/3.9c738e2d.chunk.js",
+    "static/js/3.9c738e2d.chunk.js.map": "/speskill-test/static/js/3.9c738e2d.chunk.js.map",
+    "index.html": "/speskill-test/index.html",
+    "static/css/main.acf8dbe9.chunk.css.map": "/speskill-test/static/css/main.acf8dbe9.chunk.css.map",
+    "static/js/2.0c468b6c.chunk.js.LICENSE.txt": "/speskill-test/static/js/2.0c468b6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72e78965.js",
+    "static/js/2.0c468b6c.chunk.js",
+    "static/css/main.acf8dbe9.chunk.css",
+    "static/js/main.38e19148.chunk.js"
+  ]
+}
